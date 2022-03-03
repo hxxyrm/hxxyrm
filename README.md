@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hxxyrm
-- 👀 I’m interested in UI/UX 
+- 👀 I’m interested in UX/UI, Band
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hxxyrm@gmail.com
