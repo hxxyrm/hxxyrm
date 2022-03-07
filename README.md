@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
 
 <br> 
-<img src="https://img.shields.io/badge/Apple Music-ffffff?style=flat-square&logo=Visual Studio Code&logoColor=#FA243C"/></a>
+<img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat-square&logo=Visual Studio Code&logoColor=#FA243C"/></a>
 
 <!---
 hxxyrm/hxxyrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
