@@ -9,7 +9,9 @@
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=#007ACC"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=flat-square&logo=Visual Studio Code&logoColor=#000000"/></a>
+
+<br> 
+<img src="https://img.shields.io/badge/Apple Music-ffffff?style=flat-square&logo=Visual Studio Code&logoColor=#FA243C"/></a>
 
 <!---
 hxxyrm/hxxyrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
