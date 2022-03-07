@@ -9,7 +9,6 @@
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=#007ACC"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
-
 <br> 
 <img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat-square&logo=Visual Studio Code&logoColor=#FA243C"/></a>
 
