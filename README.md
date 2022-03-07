@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-ffffff?style=flat-square&logo=Adobe Photoshop&logoColor=#000000"/></a>
 
 <!---
 hxxyrm/hxxyrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
